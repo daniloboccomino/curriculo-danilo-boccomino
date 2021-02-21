@@ -72,3 +72,23 @@ Destaque para alguns softskills: excelente organização na realização de seus
 Inglês - *Intermediário* **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 
 &nbsp;
+
+## CONHECIMENTOS
+Photoshop - *Avançado*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Illustrator - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Indesign - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Adobe XD - *Básico*  **&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Visual Studio Code - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Eclipse - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+IntelliJ - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+HTML & CSS - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Javascript - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Java - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Python - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Oracle SQL - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+MS Office - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Mac OS - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Windows - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Linux - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+
+&nbsp;
