@@ -55,3 +55,8 @@ Destaque para alguns softskills: excelente organização na realização de seus
 - Experiência na criação de Banners Home das marcas existentes no site.
 
 &nbsp;
+
+**Dafiti Group** – *Assistente de pós-produção* (Ago/11 – Jun/12)
+- Tratamento de imagens dos produtos comercializados no site.
+
+&nbsp;
