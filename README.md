@@ -41,3 +41,10 @@ Destaque para alguns softskills: excelente organização na realização de seus
 - Atendimento a clientes como Pirelli, Campneus, Prometeon, TLM, Fragon, Johnson & Johnson, entre outros.
 
 &nbsp;
+
+**KLX Comunicação Visual** – *Designer Gráfico* (Jan/14 – Mar/16)
+- Responsável por toda área de criação e arte da empresa;
+- Desenvolvimento de trabalhos de comunicação visual de clientes;
+- Criação de layouts para cartazes de divulgação e papelaria básica.
+
+&nbsp;
