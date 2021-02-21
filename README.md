@@ -48,3 +48,10 @@ Destaque para alguns softskills: excelente organização na realização de seus
 - Criação de layouts para cartazes de divulgação e papelaria básica.
 
 &nbsp;
+
+**Eótica – Ótica online** – *Assistente de produção* (Jul/12 – Mar/13)
+- Realização de sessões fotográficas e tratamento de imagens dos produtos comercializados no site;
+- Apoio em tarefas administrativas, como controle de entrada e saída dos produtos;
+- Experiência na criação de Banners Home das marcas existentes no site.
+
+&nbsp;
