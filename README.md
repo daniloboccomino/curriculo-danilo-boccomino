@@ -60,3 +60,10 @@ Destaque para alguns softskills: excelente organização na realização de seus
 - Tratamento de imagens dos produtos comercializados no site.
 
 &nbsp;
+
+## CURSOS COMPLEMENTARES
+**Senac São Paulo** – *Desenvolvedor Web – front-end* (Out/19 – Dez/19)  
+**Senac São Paulo** – *Javascript – Interatividade para Web* (Out/19 – Dez/19)  
+**Senac São Paulo** – *Lógica de Programação* (Set/19 – Out/19)  
+
+&nbsp;
