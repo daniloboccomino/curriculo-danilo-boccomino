@@ -20,3 +20,9 @@ Profissional graduado em Design Gráfico, concluindo graduação em Análise e D
 Destaque para alguns softskills: excelente organização na realização de seus trabalhos e no cumprimento de prazos, sempre de forma comprometida e cuidadosa; flexível, resiliente, com foco no trabalho em equipe e facilidade de relacionamento, transitando muito bem entre diferentes segmentos e perfis de público.
 
 &nbsp;
+
+## FORMAÇÃO
+**FIAP** (2020-2021) - Análise e Desenvolvimento de Sistemas  
+**Centro Universitário Belas Artes de São Paulo** (2010-2013) - Design Gráfico  
+
+&nbsp;
