@@ -26,3 +26,12 @@ Destaque para alguns softskills: excelente organização na realização de seus
 **Centro Universitário Belas Artes de São Paulo** (2010-2013) - Design Gráfico  
 
 &nbsp;
+
+## EXPERIÊNCIA PROFISSIONAL
+**Touch Tecnologia e Infomática** – *Estagiário de Desenvolvimento* (Dez/20 – Atual)
+- Atuação em desenvolvimento de software com Java Enterprise (JEE);
+- Desenvolvimento de aplicação web com JSP, CSS e Javascript;
+- Conexão com Banco de Dados Oracle e Postgresql;
+- Utilização de processos ágeis com Scrum;
+
+&nbsp;
