@@ -35,3 +35,9 @@ Destaque para alguns softskills: excelente organização na realização de seus
 - Utilização de processos ágeis com Scrum;
 
 &nbsp;
+
+**Agência Staluz Design** – *Designer Gráfico* (Jun/16 – Set/19)
+- Criação e desenvolvimento de identidade visual, conceitos de anúncios e campanhas de Marketing e Endomarketing, bem como criação e diagramação de peças e materiais para Comunicação Interna, tais como e-mails marketing e comunicados;
+- Atendimento a clientes como Pirelli, Campneus, Prometeon, TLM, Fragon, Johnson & Johnson, entre outros.
+
+&nbsp;
