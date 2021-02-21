@@ -67,3 +67,8 @@ Destaque para alguns softskills: excelente organização na realização de seus
 **Senac São Paulo** – *Lógica de Programação* (Set/19 – Out/19)  
 
 &nbsp;
+
+## IDIOMAS
+Inglês - *Intermediário* **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+
+&nbsp;
