@@ -79,7 +79,7 @@ Illustrator - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;
 Indesign - *Intermediário*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 Adobe XD - *Básico*  **&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 Visual Studio Code - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
-Eclipse - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
+Eclipse - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 IntelliJ - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 HTML & CSS - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
 Javascript - *Básico*  **&FilledVerySmallSquare;&FilledVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;&EmptyVerySmallSquare;**  
